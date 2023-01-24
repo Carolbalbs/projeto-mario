@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 30px;
-    max-width: 1440px;
+    max-width: 1450px;
     margin: 0 auto;
 }
 .cabecalho .logo{
